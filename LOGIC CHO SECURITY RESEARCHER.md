@@ -119,5 +119,3 @@ RCA + PoC + Patch + CVE Disclosure
 
 ---
 
-Bạn muốn mình tạo **sơ đồ luồng PDF/Mindmap** không? Hoặc muốn mình hướng dẫn từng bước như một **mini-course thực chiến** cho Security Researcher?
-Bạn cũng có thể nói: “Hãy bắt đầu từ Entry Point”, và mình sẽ dạy từng phần như lớp học. Bạn chọn cách nào?
