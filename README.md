@@ -1,6 +1,6 @@
 # Terminology
 
-## 1. Thuật ngữ phân tích mã độc / reverse engineering.
+#### 1. Thuật ngữ phân tích mã độc / reverse engineering.
 
 | Thuật ngữ         | Diễn giải ngắn                                          |
 | ----------------- | ------------------------------------------------------- |
@@ -14,7 +14,7 @@
 | **Deobfuscation** | Quá trình gỡ rối mã độc đã bị làm rối                   |
 
 
-## 2. Phân tích mã nguồn / Static Analysis.
+#### 2. Phân tích mã nguồn / Static Analysis.
 
 | Thuật ngữ          | Diễn giải                                                        |
 | ------------------ | ---------------------------------------------------------------- |
@@ -26,7 +26,7 @@
 | **Control Flow**   | Luồng điều khiển chương trình (if, loop, call,...)               |
 | **Data Flow**      | Luồng dữ liệu trong chương trình                                 |
 
-## 3. Vulnerability Research / Exploit Development.
+#### 3. Vulnerability Research / Exploit Development.
 
 | Thuật ngữ                             | Diễn giải                                                      |
 | ------------------------------------- | -------------------------------------------------------------- |
@@ -40,7 +40,7 @@
 | **Shellcode**                         | Mã máy nhỏ, thường dùng để mở shell hoặc kết nối về máy chủ    |
 
 
-## 4. Runtime / Dynamic Analysis
+#### 4. Runtime / Dynamic Analysis
 
 | Thuật ngữ           | Diễn giải                                                    |
 | ------------------- | ------------------------------------------------------------ |
@@ -52,7 +52,7 @@
 | **Break Point**     | Điểm dừng được cài đặt trong debugger                        |
 
 
-## 5. Security Intelligence / Phân tích chiến dịch.
+#### 5. Security Intelligence / Phân tích chiến dịch.
 
 | Thuật ngữ                                 | Diễn giải                                  |
 | ----------------------------------------- | ------------------------------------------ |
@@ -63,7 +63,7 @@
 | **C2 (Command and Control)**              | Server điều khiển malware sau khi nhiễm    |
 
 
-## 6. Các thuật ngữ chung khác.
+#### 6. Các thuật ngữ chung khác.
 
 | Thuật ngữ             | Diễn giải                                                     |
 | --------------------- | ------------------------------------------------------------- |
@@ -73,7 +73,7 @@
 | **Crash Triage**      | Phân loại lỗi sau khi fuzz để xem có thể khai thác được không |
 | **Memory Corruption** | Lỗi thao tác bộ nhớ gây ra hành vi bất thường                 |
 
-## 7. Exploit Internals / Kỹ thuật khai thác nâng cao.
+#### 7. Exploit Internals / Kỹ thuật khai thác nâng cao.
 
 | Thuật ngữ                                           | Diễn giải ngắn gọn                                               |
 | --------------------------------------------------- | ---------------------------------------------------------------- |
@@ -88,7 +88,7 @@
 | **Race Condition**                                  | Lỗi do hai tiến trình truy cập dữ liệu đồng thời không đúng cách |
 
 
-## 8. Symbolic Execution / Program Analysis.
+#### 8. Symbolic Execution / Program Analysis.
 
 | Thuật ngữ                          | Diễn giải                                                       |
 | ---------------------------------- | --------------------------------------------------------------- |
@@ -101,7 +101,7 @@
 | **Intra-procedural**               | Phân tích bên trong một hàm duy nhất                            |
 | **Loop Unrolling**                 | Kỹ thuật tối ưu hóa/phân tích vòng lặp bằng cách "mở rộng" vòng |
 
-## 9. Binary Reversing / ELF, PE, Mach-O Structures.
+#### 9. Binary Reversing / ELF, PE, Mach-O Structures.
 
 | Thuật ngữ                                | Diễn giải                                               |
 | ---------------------------------------- | ------------------------------------------------------- |
@@ -115,7 +115,7 @@
 | **Symbol Table**                         | Danh sách tên biến/hàm còn giữ lại trong binary (ELF)   |
 | **DWARF Debug Info**                     | Dữ liệu debug giữ thông tin như tên hàm, biến,...       |
 
-## 10. Threat Hunting / APT Analysis.
+#### 10. Threat Hunting / APT Analysis.
 
 | Thuật ngữ                      | Diễn giải                                                                                |
 | ------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -129,7 +129,7 @@
 | **DLL Sideloading**            | Tải một DLL giả mạo cùng tên vào quá trình hợp pháp                                      |
 | **Code Injection**             | Nhúng mã độc vào tiến trình khác (CreateRemoteThread, APC, v.v.)                         |
 
-## 11. Phân tích & viết mã shellcode.
+#### 11. Phân tích & viết mã shellcode.
 
 | Thuật ngữ                  | Diễn giải                                             |
 | -------------------------- | ----------------------------------------------------- |
